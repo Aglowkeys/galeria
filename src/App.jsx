@@ -20,6 +20,7 @@ function App() {
 
     return (
         <div className='App'>
+            <h1>Mi galería de fotos</h1>
             <Gallery photos={photos} />
         </div>
     );
